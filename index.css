@@ -1,0 +1,30 @@
+body{
+    margin-left: 5%;
+}
+button{
+    background-color: black;
+    color: white;
+}
+button:hover{
+    background-color: white;
+    color: black;
+}
+nav{
+    display: inline;
+    margin: auto;
+}
+.mode-btn{
+    margin-left: 80%;
+    margin-top: 2%;
+}
+.hidden{
+    display: none;
+}
+.dark-mode{
+    background-color: black;
+    color: white;
+}
+.light-mode{
+    background-color: white;
+    color: black;
+}
